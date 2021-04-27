@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+### Vítejte ve Future Proof programovací škole
 
 You can use the [editor on GitHub](https://github.com/future-proof-school/page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
